@@ -31,12 +31,14 @@ Uber Drive dataset: The dataset used for this analysis is the ‘My uber drives-
 
 The following tasks were performed:
 
-1.Data loading in excel and inspection
-2.Data loading into PowerBi
+1. Data loading in excel and inspection
+2. Data loading into PowerBi
 3. Column Profiling to know the condition of columns
 4. Handling and Replacing missing values
 5. Separating date and time into different columns.
 4.Handling error values, removing white or trailing spaces and fixing incorrect column data types..
+
+![power query](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/16f8716e-8825-40fb-b3d8-e567c8258c72)
 
 
 ### Exploratory Data Analysis
@@ -57,6 +59,9 @@ Objective of EDA was to answer the following questions:
 ### Data analysis
 
 -	Date and time columns were extracted from original table and separated into another table and linked to uber drive table in the semantic model using a key.
+
+![uber semantic models](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/d7725453-8444-4a30-81e8-87c412ac82fc)
+
 -	Month name, month number, days of week, weeks of the year were extracted from date column using the add column button on the ribbon tab
 -	Hour column was extracted from the time column using the above process.
 -	Measures were created using DAX, to calculate the Average monthly and Average weekly trip.
