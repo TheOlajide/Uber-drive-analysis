@@ -20,8 +20,9 @@ This data analysis aims to answer important questions as regards the manner at w
 Uber Drive dataset: The dataset used for this analysis is the ‘My uber drives-2016.csv’ file downloaded from Kaggle, containing information about trips taken from different location, date&time. We seek to analyze and answer important questions pertaining to this dataset.
 
 ### Tools
--Excel – Data Cleaning
--PowerBi – Data Cleaning, Analysis and creating report
+- Excel – Data Cleaning
+
+- PowerBi – Data Cleaning, Analysis and creating report
 
 
 ### Data cleaning and preparation:
