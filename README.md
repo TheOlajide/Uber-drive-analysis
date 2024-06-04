@@ -63,7 +63,13 @@ Objective of EDA was to answer the following questions:
 ![uber semantic models](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/d7725453-8444-4a30-81e8-87c412ac82fc)
 
 -	Month name, month number, days of week, weeks of the year were extracted from date column using the add column button on the ribbon tab
+
+![date table](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/6a162f3c-d719-4a10-a8d4-0f2a52087a60)
+
 -	Hour column was extracted from the time column using the above process.
+
+![time table](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/18cd556c-c31f-44b1-ad4f-55fc26f06e81)
+
 -	Measures were created using DAX, to calculate the Average monthly and Average weekly trip.
 
 ```
