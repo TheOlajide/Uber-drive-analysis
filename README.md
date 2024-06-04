@@ -2,14 +2,14 @@
 
 
 ### Table of content
--	[Project Overview](project-overview)
--	[Data Source](data-source)
--	[Tools](tools)
--	[Data cleaning and preparation](data-cleaning-and-preparation)
--	[Exploratory data analysis](exploratory-data-analysis)
--	[Data Analysis](Data-Analysis)
--	[Results and Findings](fesults-and-findings)
--	[Limitation](Limitation)
+-	[Project Overview](#project-overview)
+-	[Data Source](#data-source)
+-	[Tools](#tools)
+-	[Data cleaning and preparation](#data-cleaning-and-preparation)
+-	[Exploratory data analysis](#exploratory-data-analysis)
+-	[Data Analysis](#data-analysis)
+-	[Results and Findings](#results-and-findings)
+-	[Limitation](#limitation)
 
 ### Project Overview
 This data analysis aims to answer important questions as regards the manner at which commuters use uber for trips. Time of trip preference and location, purpose for which trip is taken, days and month where trips are taken the most.
