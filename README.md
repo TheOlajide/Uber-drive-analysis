@@ -76,15 +76,47 @@ Total trips = Countrows( my uber drives)
 From analysis of data, the following could be inferred;
 
 1. Total length of trip is 12,205 in miles. This can also be referred to as the overall total miles travelled by all commuters.
+
+![total miles travelled](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/ec94087d-9445-4b9b-981d-f9cafce93782)
+
 2. ⁠Average length of trip is 10.576 in miles.
+
+![avg of miles](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/b9d4887a-c655-4366-988b-ade5ee80e79a)
+
 3. ⁠Average number of weekly ride is 21.76, while monthly ride is 96.25 in miles.
+
+![avg weekly trips](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/91d400b1-8417-4e07-95f2-4d00a82538b2)
+
+![avg monthly trips](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/b8d7deea-06fc-4a53-bf04-b28f4db0b8d7)
+
 4. ⁠Percentage of business miles to personal miles is 93.33% to 6.67%
+
+![% of business miles to personal](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/5c818a06-eb6f-4750-b1bb-4bd22570df23)
+
 5. ⁠Most people take uber at 3pm. EDA shows the number of commuters is highest at 3pm noon.
+
+![hour of trip commencement](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/e260d076-e8b8-47be-9652-dd1bd983b465)
+
 6. ⁠EDA shows “others”(a missing value) as the major purpose of trips taken, having the highest record. Followed by other purposes like meeting, meal/entertainment, errands etc
+
+![purpose of trip](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/bbb030e2-7542-49d3-8ec8-361226486e05)
+
 7. ⁠The day with the highest number of trips is Friday, with a total of 206.
+
+![days of the week by number of trips](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/b78215c8-39f8-4bde-aaa3-0a8e60f428cd)
+
 8. ⁠The number of trips for each day is represented on the chart below.
+
+![days of the week by number of trips](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/9dc74091-7529-427d-b683-94be3488686e)
+
+
 9. ⁠The number of trips in each month is represented on the chart below.
+
+![month by number of trips](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/0e814be4-e951-4cf1-ada3-3337a4162cc4)
+
 10. ⁠Most people start boarding their trip from a location called Cary. Conclusion and recommendation: It can be inferred that most commuters’ choice of time for trips is around 3pm noon, with 93% of miles travelled being for business purpose. Friday is the busiest of days and December the busiest month.
+
+![where people start boarding from the most](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/b85e5672-0cbf-4728-aa52-b3309986355f)
 
 
 ### Limitation
