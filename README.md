@@ -2,20 +2,20 @@
 
 
 ### Table of content
--	Project Overview
--	Data Source
--	Tools
--	Data cleaning and preparation
--	Exploratory data analysis
--	Data Analysis
--	Results and Findings
--	Limitation
+-	[Project Overview](project-overview)
+-	[Data Source](data-source)
+-	[Tools](tools)
+-	[Data cleaning and preparation](data-cleaning-and-preparation)
+-	[Exploratory data analysis](exploratory-data-analysis)
+-	[Data Analysis](Data-Analysis)
+-	[Results and Findings](fesults-and-findings)
+-	[Limitation](Limitation)
 
 ### Project Overview
 This data analysis aims to answer important questions as regards the manner at which commuters use uber for trips. Time of trip preference and location, purpose for which trip is taken, days and month where trips are taken the most.
 
 
-### Data source
+### Data Source
 
 Uber Drive dataset: The dataset used for this analysis is the ‘My uber drives-2016.csv’ file downloaded from Kaggle, containing information about trips taken from different location, date&time. We seek to analyze and answer important questions pertaining to this dataset.
 
