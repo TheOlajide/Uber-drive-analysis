@@ -1,6 +1,7 @@
 ## Uber Drive Data Analysis
+![uber dashboard](https://github.com/user-attachments/assets/6c1aec3a-3149-4bce-93da-c27057b45603)
 
-![uber dashboard](https://github.com/TheOlajide/Uber-drive-analysis/assets/155437593/d48424e1-17bc-4440-bbb4-463a4517ce2f)
+
 
 
 ### Table of content
